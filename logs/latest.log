@@ -1,0 +1,20 @@
+[15:15:42] [main/INFO]: Loading Minecraft 1.19.2 with Fabric Loader 0.15.11
+[15:15:42] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.15.11+local
+	   \-- mixinextras 0.3.5
+	- java 21
+	- minecraft 1.19.2
+[15:15:42] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/launcher/server/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[15:15:48] [main/INFO]: Building unoptimized datafixer
+[15:15:50] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:15:53] [main/INFO]: Loaded 7 recipes
+[15:15:53] [main/INFO]: Loaded 1179 advancements
+[15:15:54] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[15:15:54] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[15:15:54] [Server thread/INFO]: Loading properties
+[15:15:54] [Server thread/INFO]: Default game type: SURVIVAL
+[15:15:54] [Server thread/INFO]: Generating keypair
+[15:15:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:15:55] [Server thread/INFO]: Using epoll channel type
+[15:15:55] [Server thread/INFO]: Preparing level "world"
+[15:16:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld

@@ -1,0 +1,36 @@
+{
+  "address": "ws://launcher.moriscripts.space/api",
+  "serverName": "ItsBro",
+  "autoloadLibraries": false,
+  "classpath": [
+    "fabric-server-mc.1.19.2-loader.0.15.11-launcher.1.0.1.jar"
+  ],
+  "classLoaderConfig": "LAUNCHER",
+  "mainclass": "net.fabricmc.installer.ServerLauncher",
+  "nativesDir": "natives",
+  "args": [],
+  "oauthExpireTime": 0,
+  "extendedTokens": {
+    "checkServer": {
+      "token": "eyJhbGciOiJFUzI1NiJ9.eyJpc3MiOiJMYXVuY2hTZXJ2ZXIiLCJzZXJ2ZXJOYW1lIjoiMjI2YWJmY2ItM2M1Zi00MzcwLTg5ZWYtMzg4NjJjNWY2YjE3IiwiYXV0aElkIjoic3RkIiwidG9rZW5UeXBlIjoiY2hlY2tTZXJ2ZXIiLCJpc1B1YmxpYyI6ZmFsc2V9.nnxyYscZYcAdG2lPW8OkWZN7pYEf_tkCnIH6GEvy8xYYqhHDV0R27hSSRCfYBvYosjs4v2uP9U-Sp06yPAH09Q",
+      "expire": 1720872029353
+    }
+  },
+  "env": "STD",
+  "moduleConf": {
+    "modules": [],
+    "modulePath": [],
+    "exports": {},
+    "opens": {},
+    "reads": {}
+  },
+  "encodedServerRsaPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwsqngx6p-Uz_WXyUB4OekUVg3AztMc8ZSllvlFUapDrLJPFyqusFFaJBvO4ff8ruS599VLhXpXjwpm8T2GU353k435kh6mCzOIbDxPV14tn4_AvtSBXNM-1ZlkLw8Mh0FNR3X_6PjCfsC1_6ITz7TjcKmxHjoL4L3yW6eRefR_ntZNMBCibLy4NcG-sZLOwY8Qozn44c7rIcDMugRpWbXVlGYty0AqGEGz41F-rUGSgBzgrcdd2T9ZSr6Ym4bw_4YswPo943zBq2RIqCAKvR8n7O7FebeJyiOz2gTXMOJDzIpamvTJ--EHo3znQ9tKWPfhTxCbFGlqG4BWPIOjrBsQIDAQAB",
+  "encodedServerEcPublicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE0jBDAwYLlePoYAVtdWAs76P4rITvEkBbJ-OaOsVBmwkYd_PeW222UHHxAkCd-LWnyEngvzjwcyRHqNmF2i29uw==",
+  "enableHacks": false,
+  "properties": {},
+  "configServiceSettings": {
+    "disableLogging": false,
+    "checkServerNeedProperties": false,
+    "checkServerNeedHardware": false
+  }
+}
