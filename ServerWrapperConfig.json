@@ -12,8 +12,7 @@
   "oauthExpireTime": 0,
   "extendedTokens": {
     "checkServer": {
-      "token": "eyJhbGciOiJFUzI1NiJ9.eyJpc3MiOiJMYXVuY2hTZXJ2ZXIiLCJzZXJ2ZXJOYW1lIjoiM2Y1Mjk1NjItYmU4Yi00NjllLWEyYTEtZDU5OTg3ODIyMzAzIiwiYXV0aElkIjoic3RkIiwidG9rZW5UeXBlIjoiY2hlY2tTZXJ2ZXIiLCJpc1B1YmxpYyI6ZmFsc2V9.93Y2v2EzO8VPEor9hopHgKKLSxYTYB5zuQ_IWhL9NJmyatHy-SeXGcE0cGyMy8H1156va3szKZRwo5sPXb5d0A",
-      "expire": 1721673186196
+      "token": "eyJhbGciOiJFUzI1NiJ9.eyJpc3MiOiJMYXVuY2hTZXJ2ZXIiLCJzZXJ2ZXJOYW1lIjoiM2Y1Mjk1NjItYmU4Yi00NjllLWEyYTEtZD>      "expire": 1721673956654
     }
   },
   "env": "STD",
@@ -24,9 +23,7 @@
     "opens": {},
     "reads": {}
   },
-  "encodedServerRsaPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwsqngx6p-Uz_WXyUB4OekUVg3AztMc8ZSllvlFUapDrLJPFyqusFFaJBvO4ff8ruS599VLhXpXjwpm8T2GU353k435kh6mCzOIbDxPV14tn4_AvtSBXNM-1ZlkLw8Mh0FNR3X_6PjCfsC1_6ITz7TjcKmxHjoL4L3yW6eRefR_ntZNMBCibLy4NcG-sZLOwY8Qozn44c7rIcDMugRpWbXVlGYty0AqGEGz41F-rUGSgBzgrcdd2T9ZSr6Ym4bw_4YswPo943zBq2RIqCAKvR8n7O7FebeJyiOz2gTXMOJDzIpamvTJ--EHo3znQ9tKWPfhTxCbFGlqG4BWPIOjrBsQIDAQAB",
-  "encodedServerEcPublicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE0jBDAwYLlePoYAVtdWAs76P4rITvEkBbJ-OaOsVBmwkYd_PeW222UHHxAkCd-LWnyEngvzjwcyRHqNmF2i29uw==",
-  "enableHacks": false,
+  "encodedServerRsaPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwsqngx6p-Uz_WXyUB4OekUVg3AztMc8ZSllvlFUapDr>  "encodedServerEcPublicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE0jBDAwYLlePoYAVtdWAs76P4rITvEkBbJ-OaOsVBmwkYd_PeW222>  "enableHacks": false,
   "properties": {},
   "configServiceSettings": {
     "disableLogging": false,
