@@ -3,11 +3,7 @@
   "serverName": "Bro-Tech",
   "autoloadLibraries": false,
   "classpath": [
-<<<<<<< HEAD
     "server.jar"
-=======
-    "fabric-server-mc.1.19.2-loader.0.15.11-launcher.1.0.1.jar"
->>>>>>> d88644ed803606f731ceea38733968fa93e80472
   ],
   "classLoaderConfig": "LAUNCHER",
   "mainclass": "net.fabricmc.installer.ServerLauncher",
