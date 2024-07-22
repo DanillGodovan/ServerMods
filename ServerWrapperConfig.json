@@ -1,8 +1,9 @@
 {
-  "address": "ws://launcher.moriscripts.space/api",
-  "serverName": "ItsBro",
+  "address": "wss://launcher.moriscripts.space/api",
+  "serverName": "ItsBroLauncher",
   "autoloadLibraries": false,
   "classpath": [
+    "fabric-server-mc.1.19.2-loader.0.15.11-launcher.1.0.1.jar",
     "fabric-server-mc.1.19.2-loader.0.15.11-launcher.1.0.1.jar"
   ],
   "classLoaderConfig": "LAUNCHER",
@@ -12,8 +13,8 @@
   "oauthExpireTime": 0,
   "extendedTokens": {
     "checkServer": {
-      "token": "eyJhbGciOiJFUzI1NiJ9.eyJpc3MiOiJMYXVuY2hTZXJ2ZXIiLCJzZXJ2ZXJOYW1lIjoiMjI2YWJmY2ItM2M1Zi00MzcwLTg5ZWYtMzg4NjJjNWY2YjE3IiwiYXV0aElkIjoic3RkIiwidG9rZW5UeXBlIjoiY2hlY2tTZXJ2ZXIiLCJpc1B1YmxpYyI6ZmFsc2V9.nnxyYscZYcAdG2lPW8OkWZN7pYEf_tkCnIH6GEvy8xYYqhHDV0R27hSSRCfYBvYosjs4v2uP9U-Sp06yPAH09Q",
-      "expire": 1720872029353
+      "token": "eyJhbGciOiJFUzI1NiJ9.eyJpc3MiOiJMYXVuY2hTZXJ2ZXIiLCJzZXJ2ZXJOYW1lIjoiNDQ2ZjRkNTctYzBhMi00ZDIyLWE5NDAtZWViYjhmNDVmMzdjIiwiYXV0aElkIjoic3RkIiwidG9rZW5UeXBlIjoiY2hlY2tTZXJ2ZXIiLCJpc1B1YmxpYyI6ZmFsc2V9.gpw-KWl-Q-XPfNzQstPP27L2bPOmLLAw1KC7WGw9voUFIxXJmOy8ABlTQAlZU6NaDkC0ENVBoexrZr1fkLbYZw",
+      "expire": 1721488992963
     }
   },
   "env": "STD",
