@@ -3,11 +3,7 @@
   "serverName": "Bro-Tech",
   "autoloadLibraries": false,
   "classpath": [
-<<<<<<< HEAD
     "server.jar"
-=======
-    "fabric-server-mc.1.19.2-loader.0.15.11-launcher.1.0.1.jar"
->>>>>>> d88644ed803606f731ceea38733968fa93e80472
   ],
   "classLoaderConfig": "LAUNCHER",
   "mainclass": "net.fabricmc.installer.ServerLauncher",
@@ -17,7 +13,7 @@
   "extendedTokens": {
     "checkServer": {
       "token": "eyJhbGciOiJFUzI1NiJ9.eyJpc3MiOiJMYXVuY2hTZXJ2ZXIiLCJzZXJ2ZXJOYW1lIjoiM2Y1Mjk1NjItYmU4Yi00NjllLWEyYTEtZDU5OTg3ODIyMzAzIiwiYXV0aElkIjoic3RkIiwidG9rZW5UeXBlIjoiY2hlY2tTZXJ2ZXIiLCJpc1B1YmxpYyI6ZmFsc2V9.93Y2v2EzO8VPEor9hopHgKKLSxYTYB5zuQ_IWhL9NJmyatHy-SeXGcE0cGyMy8H1156va3szKZRwo5sPXb5d0A",
-      "expire": 1721673186196
+      "expire": 1721673956654
     }
   },
   "env": "STD",
