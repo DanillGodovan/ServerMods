@@ -1,7 +1,18 @@
-[21:34:19] [main/INFO]: Loading Minecraft 1.19.2 with Fabric Loader 0.15.11
-[21:34:19] [main/INFO]: Loading 4 mods:
-	- fabricloader 0.15.11
+[00:22:32] [main/INFO]: Loading Minecraft 1.19.2 with Fabric Loader 0.15.11
+[00:22:32] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.15.11+local
 	   \-- mixinextras 0.3.5
 	- java 21
 	- minecraft 1.19.2
-[21:34:19] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/launcher/server/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[00:22:32] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/launcher/server/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[00:22:38] [main/INFO]: Building unoptimized datafixer
+[00:22:43] [main/INFO]: Loaded 7 recipes
+[00:22:44] [main/INFO]: Loaded 1179 advancements
+[00:22:45] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[00:22:45] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[00:22:45] [Server thread/INFO]: Loading properties
+[00:22:45] [Server thread/INFO]: Default game type: SURVIVAL
+[00:22:45] [Server thread/INFO]: Generating keypair
+[00:22:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:22:45] [Server thread/INFO]: Using epoll channel type
+[00:22:45] [Server thread/INFO]: Preparing level "world"

@@ -1,0 +1,60 @@
+---- Minecraft Crash Report ----
+// On the bright side, I bought you a teddy bear!
+
+Time: 2024-07-24 00:24:07
+Description: Exception in server tick loop
+
+java.lang.OutOfMemoryError: Java heap space: failed reallocation of scalar replaced objects
+	at java.base/jdk.internal.misc.Unsafe.allocateUninitializedArray(Unsafe.java:1380)
+	at java.base/java.lang.StringConcatHelper.newArray(StringConcatHelper.java:511)
+	at java.base/java.lang.StringConcatHelper.newArrayWithSuffix(StringConcatHelper.java:489)
+	at java.base/java.lang.invoke.DirectMethodHandle$Holder.invokeStatic(DirectMethodHandle$Holder)
+	at java.base/java.lang.invoke.LambdaForm$MH/0x00007e03e4083400.invoke(LambdaForm$MH)
+	at java.base/java.lang.invoke.LambdaForm$MH/0x00007e03e45a2400.invoke(LambdaForm$MH)
+	at java.base/java.lang.invoke.Invokers$Holder.linkToTargetMethod(Invokers$Holder)
+	at net.minecraft.class_1923.toString(class_1923.java:163)
+	at java.base/java.lang.StringConcatHelper.stringOf(StringConcatHelper.java:467)
+	at java.base/java.lang.invoke.DirectMethodHandle$Holder.invokeStatic(DirectMethodHandle$Holder)
+	at java.base/java.lang.invoke.LambdaForm$MH/0x00007e03e4103000.invoke(LambdaForm$MH)
+	at java.base/java.lang.invoke.Invokers$Holder.linkToTargetMethod(Invokers$Holder)
+	at net.minecraft.class_3898.method_17220(class_3898.java:370)
+	at net.minecraft.class_3898.method_20617(class_3898.java:670)
+	at net.minecraft.class_3898.method_17236(class_3898.java:607)
+	at net.minecraft.class_3193.method_13993(class_3193.java:332)
+	at net.minecraft.class_3898.method_17236(class_3898.java:597)
+	at net.minecraft.class_3193.method_13993(class_3193.java:332)
+	at net.minecraft.class_3898.method_17220(class_3898.java:340)
+	at net.minecraft.class_3898.method_20617(class_3898.java:670)
+	at net.minecraft.class_3898.method_17236(class_3898.java:607)
+	at net.minecraft.class_3193.method_13993(class_3193.java:332)
+	at net.minecraft.class_3898.method_17220(class_3898.java:340)
+	at net.minecraft.class_3898.method_20617(class_3898.java:670)
+	at net.minecraft.class_3898.method_17236(class_3898.java:607)
+	at net.minecraft.class_3193.method_13993(class_3193.java:332)
+	at net.minecraft.class_3898.method_17236(class_3898.java:597)
+	at net.minecraft.class_3193.method_13993(class_3193.java:332)
+	at net.minecraft.class_3898.method_17236(class_3898.java:597)
+	at net.minecraft.class_3193.method_13993(class_3193.java:332)
+	at net.minecraft.class_3898.method_17236(class_3898.java:597)
+	at net.minecraft.class_3193.method_13993(class_3193.java:332)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19.2
+	Minecraft Version ID: 1.19.2
+	Operating System: Linux (amd64) version 6.8.0-35-generic
+	Java Version: 21.0.3, Eclipse Adoptium
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Eclipse Adoptium
+	Memory: 2528 bytes (0 MiB) / 500760576 bytes (477 MiB) up to 500760576 bytes (477 MiB)
+	CPUs: 1
+	JVM Flags: 0 total; 
+	Server Running: false
+	Player Count: 0 / 20; []
+	Data Packs: vanilla
+	World Generation: Stable
+	Is Modded: Definitely; Server brand changed to 'fabric'
+	Type: Dedicated Server (map_server.txt)
